@@ -1,0 +1,17 @@
+src/components/TaskList.jsx
+src/pages/Home.jsx
+src/store/taskContext.jsx
+src/styles/global.css
+src/pages/Stats.jsx
+src/components/TaskItem.jsx
+src/components/TaskInput.jsx
+src/components/DarkToggle.jsx
+src/components/PageWrapper.jsx
+src/components/Notifications.jsx
+src/components/Header.jsx
+src/components/Navbar.jsx
+src/App.jsx
+src/main.jsx
+src/App.css
+src/index.css
+src/react.svg
